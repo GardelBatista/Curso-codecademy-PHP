@@ -1,5 +1,5 @@
 # Curso-codecademy-PHP
-Códigos final de cada modulo desenvolvidos no curso de PHP da codecademy
+Códigos final de cada modulo desenvolvidos no curso de PHP da codecademy (Completo - 100%)
 
 
 RESULTADOS DO CURSO: 
